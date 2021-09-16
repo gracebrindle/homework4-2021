@@ -77,6 +77,7 @@ td {
     background: #7e0825;
     min-width: 125px;
     padding: 10px;
+    margin: auto;
 }
 
 th.colhead {
