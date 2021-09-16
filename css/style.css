@@ -78,13 +78,14 @@ td {
     min-width: 125px;
     padding: 10px;
     margin: auto;
+    vertical-align: middle 
 }
 
 th.colhead {
     color: #FFFFFF;
     text-align: center;
     text-transform: uppercase;
-    vertical-align: central;
+    vertical-align: middle;
 }
 
 .rowhead {
