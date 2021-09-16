@@ -97,7 +97,7 @@ tr:nth-child(2n) {
     background: #D1D1D1;
 }
 
-tr:hover td {
+tr:hover {
     background: rgba(126, 8, 37, .25);
 }
 
